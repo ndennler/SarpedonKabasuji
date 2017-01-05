@@ -1,0 +1,45 @@
+SARPEDON KABASUJI
+
+in the main package, run BuilderApplication for the Builder or PlayerApplication for the game itself
+
+Builder Application:
+Choose Game Type or to edit a level
+
+Builder Interface:
+
+Save will allow one to save a given level under a given Name 
+DO NOT USE NAMES "LEVE1" "LEVEL2" etc. will overwrite stored levels
+
+Left Click undo button for undo, right click it to redo
+NUMBER OF MOVES and TIME REMAINING CANNOT BE UNDONE
+
+When entering values for number of moves and time remaining PRESS ENTER to store the value
+The board size is give in number of pieces that can fit on a board
+
+Clicking on a piece in the stock will add it to the bullpen
+dragging a piece over the stock and clicking in white space in the stock will release it
+
+Use the Radio buttons to pick desired action
+Move Tiles -> Allows moving tiles on board to shape the board as desired. (Pieces cannot be moved with this selected)
+Move Pieces -> Allows placing and removing pieces from the board and bullpen
+Add Hint -> Allows adding a hint by draging a piece over the board and clicking in the desired location.
+Add Number -> allows the adding of a desired number in a desired color (selected using the combo box) to a tile by
+				clicking on it. CHOOSE NUMBER 0 to remove a number from a space.
+				
+Player Interface: 
+	WARNING: NEW GAME RESETS THE GAME and loads the first level
+	Level Select allows one to enter a desire level from the current game
+	
+	In Game
+	-Move pieces by clicking and draging them
+	-While holding a piece click rotate or flip to rotate or flip the piece
+	-The Star count moves left and time left update as they should
+	-A screen will pop up with when a level ends (either completed on failed)
+	-Press the return to menu button on this pop up to return to menut 
+	IN SOME COMPUTERS THE WIDOW WILL NOT BE LARGE ENOUGH TO SEE THE RETURN TO MENU BUTTON 
+	SCROLL OR EXPAND THE WINDOW DOWN
+	
+	FOR RELEASE (also functions for other levels) if you wish to give up
+	 hit the return to menu button this will save the amount of stars you have on a level
+	 That is all.
+
