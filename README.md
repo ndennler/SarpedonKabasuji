@@ -44,11 +44,11 @@ Player Interface:
 	Level Select allows one to enter a desired level from the current game
 	
 In Game
-	*Move pieces by clicking and dragging them
-	*While holding a piece, click rotate or flip to rotate or flip the piece
-	*The Star count, moves left, and time left update as the player progresses through the level
-	*A screen will pop up with when a level ends (either completed or failed)
-	*Press the return to menu button on this pop up to return to menu 
-	(for some computers, there are display issues with window sizing, and the popup may need to be enlarged to see the proper menu buttons)
+* Move pieces by clicking and dragging them
+* While holding a piece, click rotate or flip to rotate or flip the piece
+* The Star count, moves left, and time left update as the player progresses through the level
+* A screen will pop up with when a level ends (either completed or failed)
+* Press the return to menu button on this pop up to return to menu 
+(for some computers, there are display issues with window sizing, and the popup may need to be enlarged to see the proper menu buttons)
 	
 If you wish to give up, hit the return to menu button. This will save the amount of stars that have been earned on a level
