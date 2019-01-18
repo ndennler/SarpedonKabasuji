@@ -3,13 +3,13 @@
 SETUP
 
 To run this application:
-* first install the latest version of eclipse for java for your operating system (https://www.eclipse.org/downloads/)
-* clone this repository to a known location
-* in eclipse, select File>import...
-* select general>Existing Projects into Workspace
-* for root directory, choose the folder that was cloned
-* to play the game, run the file src/Main/PlayerApplication.java
-* to build levels, run src/Main/BuilderApplication.java
+* First install the latest version of eclipse for java for your operating system (https://www.eclipse.org/downloads/)
+* Clone this repository to a known location
+* In eclipse, select File>import...
+* Select general>Existing Projects into Workspace
+* For root directory, choose the folder that was cloned
+* To play the game, run the file src/Main/PlayerApplication.java
+* To build levels, run src/Main/BuilderApplication.java
 
 SARPEDON KABASUJI
 
