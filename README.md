@@ -24,7 +24,7 @@ Save will allow one to save a given level under a given Name
 DO NOT USE NAMES "LEVEL1" "LEVEL2" etc. will overwrite stored levels
 
 Left Click undo button for undo, right click it to redo
-NUMBER OF MOVES and TIME REMAINING CANNOT BE UNDONE
+NUMBER OF MOVES and TIME REMAINING cannot be undone
 
 When entering values for number of moves and time remaining PRESS ENTER to store the value
 The board size is given in number of squares on the board divided by six (this represents the number of game pieces that can fit on the board since each piece consists of 6 squares)
@@ -44,12 +44,11 @@ Player Interface:
 	Level Select allows one to enter a desired level from the current game
 	
 In Game
-	-Move pieces by clicking and dragging them
-	-While holding a piece, click rotate or flip to rotate or flip the piece
-	-The Star count, moves left, and time left update as the player progresses through the level
-	-A screen will pop up with when a level ends (either completed or failed)
-	-Press the return to menu button on this pop up to return to menu 
-	IN SOME COMPUTERS THE WINDOW WILL NOT BE LARGE ENOUGH TO SEE THE RETURN TO MENU BUTTON 
-	SCROLL OR EXPAND THE WINDOW DOWN TO SEE IT
+	*Move pieces by clicking and dragging them
+	*While holding a piece, click rotate or flip to rotate or flip the piece
+	*The Star count, moves left, and time left update as the player progresses through the level
+	*A screen will pop up with when a level ends (either completed or failed)
+	*Press the return to menu button on this pop up to return to menu 
+	(for some computers, there are display issues with window sizing, and the popup may need to be enlarged to see the proper menu buttons)
 	
 If you wish to give up, hit the return to menu button. This will save the amount of stars that have been earned on a level
