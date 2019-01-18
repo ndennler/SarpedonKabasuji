@@ -11,7 +11,10 @@ To run this application:
 * To play the game, run the file src/Main/PlayerApplication.java
 * To build levels, run src/Main/BuilderApplication.java
 
-SARPEDON KABASUJI
+
+
+
+----------------------------SARPEDON KABASUJI-------------------------------
 
 Builder Interface:
 
@@ -40,7 +43,7 @@ Player Interface:
 	WARNING: NEW GAME RESETS THE GAME and loads the first level
 	Level Select allows one to enter a desired level from the current game
 	
-	In Game
+In Game
 	-Move pieces by clicking and dragging them
 	-While holding a piece, click rotate or flip to rotate or flip the piece
 	-The Star count, moves left, and time left update as the player progresses through the level
@@ -49,6 +52,4 @@ Player Interface:
 	IN SOME COMPUTERS THE WINDOW WILL NOT BE LARGE ENOUGH TO SEE THE RETURN TO MENU BUTTON 
 	SCROLL OR EXPAND THE WINDOW DOWN TO SEE IT
 	
-	FOR RELEASE (also functions for other levels) if you wish to give up
-	 hit the return to menu button this will save the amount of stars you have on a level
-	 That is all.
+If you wish to give up, hit the return to menu button. This will save the amount of stars that have been earned on a level
